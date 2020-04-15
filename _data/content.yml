@@ -18,10 +18,10 @@
   text: |
     ### Frictionless Data
 
- We continued our work [funded by the Sloan Foundation](https://blog.okfn.org/2018/07/12/sloan-foundation-funds-frictionless-data-for-reproducible-research/) to help researchers be more reproducible by implementing Frictionless Data software into their data workflows. This project consists of: 
- * Pilots: hands-on collaborations with researcher teams to solve existing data workflow issues
- * Tool Fund: mini-grants for developers to create open tooling for reproducible research using Frictionless Data software
- * Fellows Programme: training early career researchers in open science best practices by using Frictionless Data with their own research data
+    We continued our work [funded by the Sloan Foundation](https://blog.okfn.org/2018/07/12/sloan-foundation-funds-frictionless-data-for-reproducible-research/) to help researchers be more reproducible by implementing Frictionless Data software into their data workflows. This project consists of: 
+    * Pilots: hands-on collaborations with researcher teams to solve existing data workflow issues
+    * Tool Fund: mini-grants for developers to create open tooling for reproducible research using Frictionless Data software
+    * Fellows Programme: training early career researchers in open science best practices by using Frictionless Data with their own research data
 
     We started two pilot collaborations with the Biological and Chemical Oceanography Data Management Office (BCO-DMO) and with the Catalyst Cooperative. [The Catalyst pilot](https://blog.okfn.org/2020/03/18/frictionless-public-utility-data-a-pilot-study/) liberated public utility data via datapackages and [phase 1 of the BCO-DMO pilot](https://blog.okfn.org/2020/02/10/frictionless-data-pipelines-for-ocean-science/) used datapackage pipelines to clean oceanography data. 
 
