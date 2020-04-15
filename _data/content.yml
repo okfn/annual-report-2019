@@ -1,47 +1,65 @@
 - section: Introduction
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+In 2019 the Open Knowledge Foundation celebrated its 15th anniversary. We marked this milestone event by renewing our vision, our mission, and our organisation’s name, reminding ourselves of our founding values – ‘to promote the openness of all forms of knowledge’.
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+Our vision is for a future that is fair, free and open. That is our guiding principle in everything we do. Our mission is to create a more open world – a world where all non-personal information is open, free for everyone to use, build on and share; and creators and innovators are fairly recognised and rewarded.
 
+Open knowledge is a powerful tool and it can take many different and diverse forms: open data, open science, open research, open access, open citations and open source to name a few. What underlies all open principles is a very simple human trait: the value of sharing.
+
+Yet for open knowledge to have impact, it has to be mainstream and relatable. That is why we exist - campaigning for a fair, free and open future for all, not just a privileged few.
+
+We know that open knowledge is under threat in many challenging ways. From the threat to the Open Definition to draconian new EU copyright rules, open knowledge is challenged by vested economic interests where the public benefit comes secondary to private profit. With inequality rising, never before has our vision of a fair, free and open future been so important to realise our mission of an open world in complex times.
+
+The Open Knowledge Foundation recognises that our future success does not depend on our past achievements but in how we navigate the future. Our work in 2019 has renewed our organisation and prepared us for an exciting new chapter.
+
+As the year drew to a close, the COVID-19 disease was first identified. This unprecedented international emergency illustrates how important open knowledge is. The impact of open research and sharing data openly will be the creation of a vaccine in record time, saving hundreds of thousands of lives. When we emerge on the other side of the coronavirus pandemic, the world will face an uncertain future. It will be our job to help build a future that is fair, free and open.
 
 - section: Highlights from our projects
   text: |
     ### Frictionless Data
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+We continued our work [funded by the Sloan Foundation](https://blog.okfn.org/2018/07/12/sloan-foundation-funds-frictionless-data-for-reproducible-research/) to help researchers be more reproducible by implementing Frictionless Data software into their data workflows. This project consists of: 
+* Pilots: hands-on collaborations with researcher teams to solve existing data workflow issues
+* Tool Fund: mini-grants for developers to create open tooling for reproducible research using Frictionless Data software
+* Fellows Programme: training early career researchers in open science best practices by using Frictionless Data with their own research data
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+We started two pilot collaborations with the Biological and Chemical Oceanography Data Management Office (BCO-DMO) and with the Catalyst Cooperative. [The Catalyst pilot](https://blog.okfn.org/2020/03/18/frictionless-public-utility-data-a-pilot-study/) liberated public utility data via datapackages and [phase 1 of the BCO-DMO pilot](https://blog.okfn.org/2020/02/10/frictionless-data-pipelines-for-ocean-science/) used datapackage pipelines to clean oceanography data. 
+
+We ran a successful [Tool Fund](https://toolfund.frictionlessdata.io/) where [we funded four grantees](https://blog.okfn.org/2019/07/04/meet-our-2019-frictionless-data-tool-fund-grantees/) who created tools that implement Frictionless Data datapackage support for the biodiversity DarwinCore Archive, Open Referral data, Neuroscience Experiments System data and data in Google Sheets.
+
+We started the first cohort of the [Fellows programme](https://fellows.frictionlessdata.io/), training [four fellows](https://blog.okfn.org/2019/08/29/a-warm-welcome-to-our-frictionless-data-for-reproducible-research-fellows/). You can read about their ongoing learning [here](http://fellows.frictionlessdata.io/blog/).
+
+Finally, we [announced joint stewardship](https://blog.okfn.org/2019/12/12/announcing-frictionless-data-joint-stewardship/) of the Frictionless Data project with Datopian, and began work together to redo the [Frictionless Data website](https://frictionlessdata.io/).
 
     ### School of Data
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+School of Data’s place within the Open Knowledge Foundation underwent a strategic shift in 2019, alongside the rest of the organisation. Under the terms of this transition, the School of Data network will be supported to become an independent and self-funded community, leading to the Open Knowledge Foundation becoming a normal member of the network. 
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+As part of this strategic shift, the School of Data team has been redeployed in order to embed data literacy trainings and practices across our offerings, leading to the formalisation of [our offerings of data trainings](https://okfn.org/what-we-do/training/). In 2019, the team started work on new strategic priorities where its expertise is relevant, such as algorithms and artificial intelligence. This led to the launch of a pilot capacity-building project for legal professionals around algorithms and AI, the Open Knowledge Justice Project.
 
+We have been running several data literacy projects in parallel to the transition. We’ve worked with Hivos on their Open Contracting programme; with Publish What You Pay to organise sessions during their Global Assembly; and with the Natural Resource Governance Institute on a transparency dashboard for the extractives industry. New international programmes have been launched with Transparency International, Hivos and the European-Union funded CoAct research consortium.
+   
     ### Open Spending
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+In 2020 we continued to support governments in making their finances more transparent In close partnership with the [Global Initiative for Fiscal Transparency](http://www.fiscaltransparency.net/) by building on our [OpenSpending platform](https://openspending.org/) and providing on-call support though our open fiscal helpdesk, helping governments including Argentina, Croatia, Mexico and South Africa to publish their budgets in the Fiscal Data Package format. The resulting data is all available on our central OpenSpending portal, which provides easy ways to find data with the [OS Explorer](https://openspending.org/s/); multiple ways of visualising the data out-of-the-box via the OS Viewer; and a sophisticated application programming interface for more technical users of the data.
 
     ### Services
 
     #### UNHCR
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
+    This year we continued our work with the United Nations Refugees Agency by developing their RIDL Platform further. RIDL is a centralised and secure data repository that ensures their team is able to use its valuable raw data to its full potential and make it available externally for operational partners, as well as preserving it for future use.
+    
     #### Honduras
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
+We supported the government of Honduras in the development of their open data strategy and portal by providing technical support to our partners Datopian, and organising the training component of the engagement. We created a full programme designed to develop data skills and build capacity on use and maintenance of the platform. We also focussed on the need to promote the value of open data re-use, the need to develop a strong community of data re-users and collaboration amongst government partners.    
+   
     #### DSM Biology
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+DSM is a global purpose-led, science-based company specializing in nutrition, health and sustainable living. It aims to create brighter lives for all by using scientific and innovation power to tackle some of the world’s greatest challenges. We supported their team by providing technical training and overseeing development of their CKAN-based internal data platform, which also makes use of Frictionless Data.
 
     #### Right to Education Index (RTEI)
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+The Right to Education Index (RTEI) is a project of RESULTS Educational Fund. It is a global accountability initiative that aims to ensure that all people, no matter where they live, can enjoy their right to a quality education. We first partnered with RTEI in 2016 to build an open tool that monitors the satisfaction of the right to education based on international human rights law frameworks. Advocates, researchers, and all citizens can use RTEI to engage in informed dialogue about the satisfaction of the right to education. This year we continued to support the team with data updates and improvements to the website. 
 
     ![Right to Education Index](img/RTEI.png)
 
@@ -50,51 +68,55 @@
   text: |
     ### Open Data Day 2019
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
+ On Saturday 2nd March, groups from around the world organised more than 300 events to celebrate, promote and spread the use of open data. We again acted as a coordinator to connect, promote and energise teams all over the world as well as running our [annual mini-grants scheme](https://blog.okfn.org/2019/02/21/these-are-the-grantees-of-the-open-data-day-2019-mini-grant-scheme/) which proved financial support for dozens of events. A total of 325 events were registered in the [opendataday.org](https://opendataday.org/) map around the world, with a record of 26 events in Nepal, and 57 events in Japan. This shows that there is a well-established and a growing community around Open Data Day.
+ 
     ![Open Data Day Events](img/odd2019_events_final.png)
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+ With so much happening, the online spread of news on Open Data Day was also impressive: the hashtag [#OpenDataDay](https://twitter.com/search?q=%23opendataday&src=typd) was used extensively to share live updates on events via Twitter. We summarised some of the highlights during the day itself using Twitter Moments for the first time. See what happened on the different continents: [Asia & Oceania](https://twitter.com/i/events/1100782873769115648); [Africa & Europe](https://twitter.com/i/events/1101417424497328129); and [the Americas](https://twitter.com/i/events/1101952874769272832).
+ 
+    ### csv,conf,v4
 
-    ### Csv,conf,v4
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
-
+   [csv,conf,v4](https://csvconf.com/2019/) took place on May 8th and 9th in Portland, Oregon, United States. csv,conf is a much-loved community conference bringing together diverse groups to discuss data topics, featuring stories about data sharing and data analysis from science, journalism, government, and open source. Over two days, attendees had the opportunity to hear about ongoing work, share skills, exchange ideas and kickstart collaborations. As in previous years, the Open Knowledge Foundation were members of the organising team and the organisation supported travel grants through our Frictionless Data grant from the Sloan Foundation. Frictionless Data pilot partners, grantees and community contributors were well represented in the talks and the conference presented a number of opportunities for new collaborations. 
+  
     ### CKAN
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+2019 saw the [announcement](https://blog.okfn.org/2019/06/06/statement-from-the-open-knowledge-foundation-board-on-the-future-of-the-ckan-association/) of a new joint stewardship arrangement for the [CKAN project](https://ckan.org/) lead by [Link Digital](https://linkdigital.com.au/) and [Datopian](https://www.datopian.com/), two of the longest serving contributors to the CKAN community. The decision was made to empower CKAN by strengthening both the platform and community. The Open Knowledge Foundation remains the ‘purpose trustee’ to ensure the stewards remain true to the purpose and ethos of the CKAN project.
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+As ever, we continued our involvement in the maintenance and governance of CKAN and provided community and technical support at an important time for the project. CKAN is building towards a new version, more in line with the current trends in software development and deployment.
 
     ### Campaigns
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
-
+In 2019, we refocused our efforts on why we were created in 2004 to promote the openness of all forms of knowledge. To keep reinforcing the benefits of openness, we pursued the following issues:
+* We [challenged](https://blog.okfn.org/2019/02/26/facebook-challenged-to-tackle-the-spread-of-fake-news-ahead-of-vital-european-elections/) Facebook to tackle the spread of ‘fake news’ ahead of vital European elections and [asked](https://blog.okfn.org/2019/07/02/eu-must-work-harder-to-tackle-disinformation/) the president of the European Commission to focus on the actions of online platforms
+* We [criticised](https://blog.okfn.org/2019/04/15/eu-council-backs-controversial-copyright-crackdown/) the deeply disappointing passage of the European Union’s controversial copyright crackdown
+* We [joined forces](https://blog.okfn.org/2019/05/29/the-sum-of-our-parts-open-organisations/) with six other international “open” organisations to address our shared challenges 
+* We [laid out](https://blog.okfn.org/2019/07/17/transforming-the-uks-data-ecosystem-open-knowledge-foundations-thoughts-on-the-national-data-strategy/) how the UK government could transform the UK’s data ecosystem by creating a National Data Strategy that emphasises the importance of sharing more, better quality information and data openly
+* We [highlighted](https://blog.okfn.org/2019/07/09/missed-opportunities-in-the-eus-revised-open-data-and-re-use-of-public-sector-information-directive/) the missed opportunities in the EU’s revised open data and re-use of public sector information directive
+* We [explained](https://blog.okfn.org/2019/08/26/world-library-congress-closing-libraries-is-short-sighted/) that closing down libraries to save money is ‘one of the most short-sighted decisions that public officials can make’
+* We [called on](https://blog.okfn.org/2019/07/30/why-greater-tax-transparency-is-needed-to-help-fix-the-broken-global-tax-system/) the European Union to finally pass improved tax transparency measures after years of inaction
+* We [pressed](https://blog.okfn.org/2019/06/04/uk-health-secretary-challenged-to-tackle-access-to-medicines/) the UK’s health secretary to address the global lack of access to medicines
 
 - section: New team members
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
-
+Catherine Stihler
 
 - section: Network highlights
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+From members of Open Knowledge Finland organising the hugely successful [myData Festival](https://mydata2019.org/) in Helsinki to Open Knowledge Nepal’s work on [real-time data](https://blog.okfn.org/2019/09/02/setting-up-a-way-forward-for-real-time-data-in-nepal/) and partnering to host the country’s [first women in data conference](https://blog.okfn.org/2019/03/05/nepals-first-women-in-data-conference/), 2019 was a busy year for the chapters and established groups around the world which make up the [Open Knowledge Network](https://okfn.org/network/). 
+
+To name just a few further achievements: Open Knowledge France launched [madada.fr](https://madada.fr/) (using mySociety’s Alaveteli platform) to [help French citizens submit access to information requests](https://fr.okfn.org/2019/10/24/madada-fr-ma-demande-dacces-a-un-document-administratif/); Open Knowledge Sweden partnered with Transparency International to [promote usage of open data for combating corruption in the Baltic and Nordic countries](https://blog.okfn.org/2019/06/13/building-a-nordic-anti-corruption-data-ecosystem/); Open Knowledge Ethiopia helped the country [adopt an open access policy](https://blog.okfn.org/2019/10/09/ethiopia-adopts-a-national-open-access-policy/; and Open Knowledge Somalia [developed a data literacy programme](https://blog.okfn.org/2019/08/19/ok-somalia-data-literacy-training-program/).
+
+To learn more about the activities of Network chapters, groups or affiliates in your country or region, visit [okfn.org/network](https://okfn.org/network/) to connect with people where you live who also want to open information and use it to empower individuals and communities.
 
 
 - section: Research
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
+In 2019, our team investigated ways to put information into use for society. We developed methods to study data use, investigate what makes information useful and usable and explore ways of organising and collaborating around information in data communities.
 
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
-
+This year, we published the following research:
+* We announced the results of the [Africa Open Data Index](http://test-african-data.survey.okfn.org/). This regional version of our Global Open Data Index collected baseline data on open data publication in 30 African countries to provide input for the [second Africa Data Revolution Report](http://webfoundation.org/docs/2019/03/Africa-data-revolution-report.pdf). Read our [blogpost](https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/) for more information.
+* To better understand and explore the interplay between open governance and the governance/production of open data, we published this [blogpost](https://blog.okfn.org/2019/02/20/open-data-governance-and-open-governance-interplay-or-disconnect/) with partners from the Web Foundation and GovLab 
 
 - section: Multimedia
   text: |
@@ -105,6 +127,4 @@
 
 - section: How to get involved
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
+Join the [Open Knowledge forum](https://discuss.okfn.org/) to connect with people across the world pursuing open knowledge and open data projects. To follow the work of the Open Knowledge Foundation, you can also connect with us via [Twitter](https://twitter.com/okfn), [Facebook](https://www.facebook.com/OKFNetwork), [Github](https://github.com/okfn), [Gitter](https://gitter.im/okfn/home), [YouTube](https://www.youtube.com/user/openknowledgefdn) or [subscribe](https://okfn.us9.list-manage.com/subscribe?u=73f922f8e68e21a10efa21f02&id=32d370a7fc) to receive our newsletter every two months which features updates on our projects, network and events.
