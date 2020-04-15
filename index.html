@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="intro" id="top">
+  <div class="container">
+    <a class="logo">{% include okfn-white.svg %}</a>
+    <h1>{{ site.title }}</h1>
+    <span class="description">{{ site.description }}</span>
+  </div>
+</div>
+
+{% for s in site.data.content %}
+  <section id="{{ s.section | downcase | replace:' ','-' | replace:'&','' | replace:'--','-' }}">
+    <div class="container">
+      {% if s.section %}
+      <h2>{{ s.section }}</h2>
+      {% endif %}
+      {{ s.text | markdownify }}
+
+      {% if s.subsections %}
+        {% for sub in s.subsections %}
+          {% if sub.title %}
+          <h4>
+            {{ sub.title }}
+          </h4>
+          {% endif %}
+          {% if sub.people %}
+          <ul class="people">
+            {% for p in sub.people %}
+            <li>
+              <span class="image">
+                <span{% if p.photo %} style="background-image: url({{ p.photo }});"{% endif %}></span>
+              </span>
+              <span class="name">
+                {{ p.name }}
+              </span>
+              {% if p.role %}
+              <span class="role">
+                {{ p.role }}
+              </span>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.logos %}
+          <ul class="logos">
+            {% for l in sub.logos %}
+            <li>
+              <a{% if l.url %} href="{{ l.url  }}"{% endif %} style="background-image: url({{ l.image }});">
+                {{ l.name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.media %}
+          <ul class="media">
+            {% for m in sub.media %}
+            <li{% if m.type == 'video' %} class="video"{% elsif m.type == 'pdf' %} class="pdf"{% endif %}>
+              <a{% if m.url %} href="{{ m.url  }}"{% endif %} style="background-image: url({{ m.image }});" target="_blank">
+                {{ m.label }}
+              </a>
+              <span class="label">{{ m.label }}</span>
+            </li>
+            {% endfor %}
+          </ul>
+          {% elsif sub.text %}
+          {{ sub.text | markdownify }}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+{% endfor %}

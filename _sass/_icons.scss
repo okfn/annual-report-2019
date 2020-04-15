@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ln5ixd');
+  src:  url('fonts/icomoon.eot?ln5ixd#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ln5ixd') format('truetype'),
+    url('fonts/icomoon.woff?ln5ixd') format('woff'),
+    url('fonts/icomoon.svg?ln5ixd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@mixin icon-font() {
+  // use !important to prevent issues with browser extensions that change fonts
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  // Better Font Rendering
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  @include icon-font();
+}
+
+.icon-image:before {
+  content: "\e90d";
+}
+.icon-share:before {
+  content: "\ea7d";
+}
+.icon-file-pdf:before {
+  content: "\eadf";
+}
+.icon-play:before {
+  content: "\e915";
+}

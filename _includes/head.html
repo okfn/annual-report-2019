@@ -1,0 +1,9 @@
+<script src="js/vendor/modernizr-custom.js"></script>
+{% if site.googleanalytics %}
+<script>
+  var okiConsent = {
+    analyticsTrackingID: '{{ site.googleanalytics }}'
+  }
+</script>
+<script src="https://a.okfn.org/html/oki/consent/assets/js/consent.js"></script>
+{% endif %}

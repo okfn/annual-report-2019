@@ -1,0 +1,11 @@
+# Site settings
+title: Annual Report
+description: Looking back on 2019
+
+googleanalytics: UA-8271754-69
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
