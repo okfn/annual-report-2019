@@ -137,11 +137,11 @@
         image: https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F863342888_1280x640.webp&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png
         url: https://vimeo.com/396540331
         type: video
-      - label: Open source for good: the people and projects driving change - GitHub Satellite 2019
+      - label: Open source for good, the people and projects driving change - GitHub Satellite 2019
         image: https://img.youtube.com/vi/nhA2FcCqQVE/0.jpg
         url: https://www.youtube.com/watch?v=nhA2FcCqQVE
         type: video
-      - label: IFLA General Conference: What Lawmakers Think about Libraries
+      - label: IFLA General Conference - What Lawmakers Think about Libraries
         image: https://img.youtube.com/vi/GVxVXMtXY8U/0.jpg
         url: https://www.youtube.com/watch?v=GVxVXMtXY8U
         type: video
@@ -153,7 +153,7 @@
         image: https://img.youtube.com/vi/A6v8MUYVlnY/0.jpg
         url: https://www.youtube.com/watch?v=A6v8MUYVlnY
         type: video
-      - label: Frictionless Data Pipelines | PyData Austin 2019
+      - label: Frictionless Data Pipelines - PyData Austin 2019
         image: https://img.youtube.com/vi/W2H8lrTdVBE/0.jpg
         url: https://www.youtube.com/watch?v=W2H8lrTdVBE
         type: video
