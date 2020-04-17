@@ -124,10 +124,41 @@
 
 - section: Multimedia
   text: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit laoreet id donec ultrices tincidunt arcu. Cursus mattis molestie a iaculis. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis. Sed velit dignissim sodales ut eu sem integer vitae justo. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Eget est lorem ipsum dolor sit amet consectetur. Malesuada bibendum arcu vitae elementum.
-
-    Diam vel quam elementum pulvinar etiam non quam lacus. Netus et malesuada fames ac turpis egestas. Nunc non blandit massa enim nec dui. Purus non enim praesent elementum facilisis leo vel fringilla. Urna duis convallis convallis tellus. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Eget dolor morbi non arcu risus quis. Enim facilisis gravida neque convallis a cras semper auctor neque. Lacus sed turpis tincidunt id aliquet. Consequat ac felis donec et. Sed vulputate mi sit amet.
-
+  subsections:
+  - title:
+    media:
+      - label: Keynote address at Open Belgium 2019 by Catherine Stihler
+        image: https://img.youtube.com/vi/t6bObfhHvS0/0.jpg
+        url: https://www.youtube.com/watch?v=t6bObfhHvS0
+        type: video
+      - label: Catherine Stihler's keynote at the 2019 Yale Day of Data
+        image: https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F863342888_1280x640.webp&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png
+        url: https://vimeo.com/396540331
+        type: video
+      - label: Open source for good: the people and projects driving change - GitHub Satellite 2019
+        image: https://img.youtube.com/vi/nhA2FcCqQVE/0.jpg
+        url: https://www.youtube.com/watch?v=nhA2FcCqQVE
+        type: video
+      - label: IFLA General Conference: What Lawmakers Think about Libraries
+        image: https://img.youtube.com/vi/GVxVXMtXY8U/0.jpg
+        url: https://www.youtube.com/watch?v=GVxVXMtXY8U
+        type: video
+      - label: Software Sustainability Institute's Collaborations Workshop 2019 
+        image: https://img.youtube.com/vi/DGk5bGq8HbQ/0.jpg
+        url: https://www.youtube.com/watch?v=DGk5bGq8HbQ
+        type: video
+       - label: csv,conf,v4 livestream
+        image: https://img.youtube.com/vi/A6v8MUYVlnY/0.jpg
+        url: https://www.youtube.com/watch?v=A6v8MUYVlnY
+        type: video
+      - label: Frictionless Data Pipelines | PyData Austin 2019
+        image: https://img.youtube.com/vi/W2H8lrTdVBE/0.jpg
+        url: https://www.youtube.com/watch?v=W2H8lrTdVBE
+        type: video
+      - label: 2019 eLife Innovation Sprint podcast
+        image: https://i1.sndcdn.com/artworks-000601927441-nff3fm-t500x500.jpg
+        url: https://soundcloud.com/user-442729760/elife-sprint-2019-podcast
+        type: audio
 
 - section: How to get involved
   text: |
