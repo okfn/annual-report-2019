@@ -152,7 +152,7 @@
         image: https://img.youtube.com/vi/DGk5bGq8HbQ/0.jpg
         url: https://www.youtube.com/watch?v=DGk5bGq8HbQ
         type: video
-       - label: csv,conf,v4 livestream
+      - label: csv,conf,v4 livestream
         image: https://img.youtube.com/vi/A6v8MUYVlnY/0.jpg
         url: https://www.youtube.com/watch?v=A6v8MUYVlnY
         type: video
